@@ -48,7 +48,7 @@
   "settings": {
     "theme": {
       "current": "dark",
-      "available_themes": ["light", "dark", "aqua", "solarized"], // Available themes
+      "available_themes": ["light", "dark", "aqua", "solarized"], 
       "custom_color": "#1abc9c"
     },
     "visibility": {
