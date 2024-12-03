@@ -1,10 +1,4 @@
 {
-  "social": {
-    "email": "johndoe@example.com",
-    "linkedin": "https://linkedin.com/in/johndoe",
-    "twitter/x": "https://twitter.com/johndoe", 
-    "youtube": "",   
-  },
   "education": [
     {
       "degree": "Bachelor of Science in Computer Science",
@@ -35,28 +29,12 @@
     {
       "name": "Open Source Contributor",
       "repo": "https://github.com/example/repo",
-      "description": "Improved project performance by 30% with efficient algorithms.",
-      "show": true
+      "description": "Improved project performance by 30% with efficient algorithms."
     },
     {
       "name": "Portfolio Website",
       "repo": "https://github.com/johndoe/portfolio",
-      "description": "Built a personal portfolio using React and TailwindCSS.",
-      "show": true
+      "description": "Built a personal portfolio using React and TailwindCSS."
     }
-  ],
-  "settings": {
-    "theme": {
-      "current": "dark",
-      "available_themes": ["light", "dark", "aqua", "solarized"], 
-      "custom_color": "#1abc9c"
-    },
-    "visibility": {
-      "header": true,
-      "contact": true,
-      "education": true,
-      "experience": true,
-      "projects": true
-    }
-  }
+  ]
 }
