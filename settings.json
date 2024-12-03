@@ -3,17 +3,17 @@
     {
       "degree": "Bachelor of Science in Computer Science",
       "institution": "Stanford University",
-      "year": 2020
+      "year": "2020"
     },
     {
       "degree": "Schooling",
       "institution": "ACME Public School",
-      "year": 2022-2024
+      "year": "2022-2024"
     },
     {
       "degree": "Schooling",
       "institution": "Oxford Senior Secondary School",
-      "year": 2015-2022
+      "year": "2015-2022"
     }
   ],
   "experience": [
